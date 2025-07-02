@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Omaima Ali Khan</h1>
 <h3 align="center">A Frontend Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima-ali-khan&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-ali-khan" /> </p>
 
